@@ -61,9 +61,9 @@ class Conta:
             print('\n### Operação falhou! Você não tem saldo suficiente. ###')
         
         elif valor > 0:
-            
 
 
+"""
 class ContaCorrente(Conta):
     pass
 
@@ -82,5 +82,4 @@ class Saque(Transacao):
 
 class Deposito(Transacao):
     pass
-
-
+"""
